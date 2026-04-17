@@ -2,11 +2,12 @@
 
 Extract structured data from [totaljobs.com](https://totaljobs.com) — job listings from totaljobs.com — UK's largest job board. Salary data, full descriptions, company profiles, contact info, and incremental monitoring.
 
-**[Totaljobs Scraper on Apify →](https://apify.com/blackfalcondata/totaljobs-scraper)**
+**[Totaljobs Scraper - UK’s Largest Job Board on Apify →](https://apify.com/blackfalcondata/totaljobs-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [totaljobs.com](https://totaljobs.com) — job list
 ---
 
 ## Use cases
+
 
 
 
@@ -107,6 +109,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
